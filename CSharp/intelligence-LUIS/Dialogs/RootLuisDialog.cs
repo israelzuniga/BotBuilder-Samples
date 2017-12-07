@@ -11,7 +11,7 @@
     using Microsoft.Bot.Builder.Luis.Models;
     using Microsoft.Bot.Connector;
 
-    [LuisModel("YourModelId", "YourSubscriptionKey")]
+    [LuisModel("060eecd8-a489-473a-89a1-8ec11c29ae40", "53883842aff149aea51f2d662238c57b")]
     [Serializable]
     public class RootLuisDialog : LuisDialog<object>
     {
